@@ -1,5 +1,8 @@
 # Morpho Blue Liquidation Bot
 
+*** USE AT YOUR OWN RISK, UPGRADED, NOT AUDITED CODE, INTENDED FOR THE PURPOSE OF MUSCADINE LABS***
+Purpose is for idle tokens (earning yield in morpho vaults) to earn more yields through liquidiations. 
+
 A simple, fast, and easily deployable liquidation bot for the **Morpho Blue** protocol. This bot is entirely based on **RPC calls** and is designed to be **easy to configure**, **customizable**, and **ready to deploy** on any EVM-compatible chain.
 
 ## Visual Architecture
